@@ -3,15 +3,13 @@ import { Card } from 'react-bootstrap'
 import { CardGroup } from 'react-bootstrap'
 import { Button } from 'react-bootstrap'
 
-import Navbar from '../components/Navbar'
-import { Accordion } from 'react-bootstrap'
 
 
 
 export default function About() {
   return (
     <div className='home'>
-<Navbar/>
+
 <br></br>
     <br></br>
   <CardGroup>

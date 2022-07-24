@@ -92,7 +92,7 @@ function NavScrollExample() {
               </NavDropdown.Item>
             </NavDropdown>
             
-            <Navbar.Brand href="about" style={{marginLeft:"60px"}}><h5>About Us</h5></Navbar.Brand>
+            
           </Nav>
           
         </Navbar.Collapse>
